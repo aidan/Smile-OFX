@@ -3,6 +3,8 @@
 // @name            Co-op/Smile to OFX
 // @description    	UNOFFICIAL script to convert co-op and smile bank statements and co-op credit card statements into CSV and OFX files
 // @namespace		    https://gist.github.com/5cbb37e2a6003d470c47
+// @include         https://banking.smile.co.uk/SmileWeb2/getDomesticStatementPage.do*
+// @include         https://banking.smile.co.uk/SmileWeb2/paginateDomesticStatement.do*
 // @include         https://banking.smile.co.uk/SmileWeb/getDomesticStatementPage.do*
 // @include         https://banking.smile.co.uk/SmileWeb/paginateDomesticStatement.do*
 // @include         https://welcome22.smile.co.uk/SmileWeb/getDomesticStatementPage.do*
